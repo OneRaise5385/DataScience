@@ -3,6 +3,7 @@
 - 笔记参考课程参考https://github.com/PKUFlyingPig/cs-self-learning
 ## Data100
 - 斯坦福大学Data100课程，课程连接https://ds100.org/sp22/
+- prac.ipynb文件为Data100的2022年教材中代码的练习
 ## Git版本控制
 - Git学习笔记`GitLearning.pdf`
 - Git参考书https://git-scm.com/book/en/v2
